@@ -1,0 +1,15 @@
+{
+  "name": "create-muon",
+  "description": "Create Muon Design System library",
+  "version": "0.0.0",
+  "author": "Centrica <jonathan.holt@centrica.com>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.3.0"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+
+# compiled output
+/dist
+/storybook-static
+
+# test coverage
+/coverage
+
+# dependencies
+/node_modules
+
+# other
+.DS_Store

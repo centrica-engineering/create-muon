@@ -1,0 +1,9 @@
+@import "@muonic/muon/css/default.css";
+
+:host {
+  & h1 {
+    font-family: $THEME_FONT_FAMILY_HEADING;
+    font-size: $THEME_FONT_SIZE_HEADING;
+    font-weight: $THEME_FONT_WEIGHT_HEADING;
+  }
+}

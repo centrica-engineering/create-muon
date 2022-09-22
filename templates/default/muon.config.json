@@ -1,0 +1,10 @@
+{
+  "components": {
+    "dir": "components/**/*-component.js",
+    "included": "all",
+    "prefix": "{{kebab name}}"
+  },
+  "tokens": {
+    "dir": ["tokens/*.json", "components/**/tokens.json"]
+  }
+}
