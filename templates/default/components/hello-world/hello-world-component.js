@@ -1,10 +1,14 @@
-import { MuonElement, html } from '@muonic/library';
-import styles from './hello-world-component.css';
+import { MuonElement, html } from '@muonic/muon';
+import styles from './hello-world-styles.css';
 
+/**
+ * @element hello-world
+ * @description A simple web component that says hello.
+ */
 export class HelloWorld extends MuonElement {
   static get properties() {
     return {
-      name: { type: String },
+      name: { type: String }
     };
   }
 

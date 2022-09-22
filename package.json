@@ -1,7 +1,7 @@
 {
   "name": "create-muon",
   "description": "Create Muon Design System library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Centrica <jonathan.holt@centrica.com>",
   "bin": "src/cli.js",
   "files": [

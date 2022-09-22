@@ -21,7 +21,7 @@
   "author": "",
   "license": "{{license}}",
   "dependencies": {
-    "@muons/library": "latest"
+    "@muonic/muon": "0.0.2-experimental-153-7d10f5f.0"
   },
   "devDependencies": {
     "@chanzuckerberg/axe-storybook-testing": "5.0.0",
